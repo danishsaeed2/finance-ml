@@ -5,4 +5,4 @@ To implement:
 * An engine that allows for prediction and automated trading.
 
 Link to a project report:
-https://docs.google.com/document/d/13fa5qKDb49PBTmBbU-YKyWppoeY7OfraSyKjI8AnKPg/edit?usp=sharing
+https://drive.google.com/file/d/1QQLTMn8Q0Xk4wYSHcrUmc4Zq5_ceN80I/view?usp=sharing
